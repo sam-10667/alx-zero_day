@@ -1,1 +1,1 @@
-THis is a test readme
+THis is a test readme file. It's interesting learning git
